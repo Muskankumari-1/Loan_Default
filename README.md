@@ -147,15 +147,15 @@ Credit score bins show strong correlation with loan amounts
 High-income individuals (full-time & self-employed) contribute most to loan amounts
 
 ## Dashboard Snapshots
-                      ## Loan Default Overview
+### Loan Default Overview
 
 ![Page 1](https://github.com/user-attachments/assets/c3ecdffe-df2f-4b91-969a-fdeb199c65a8)
 
-                  ## Applicant Demographics & Financial Profile
+ ### Applicant Demographics & Financial Profile
 
 ![Page 2](https://github.com/user-attachments/assets/0c099f57-271a-48a5-ae4d-0cdc49802a99)
 
-                      ## Financial Risk Metrics
+ ### Financial Risk Metrics
 
 ![Page 3](https://github.com/user-attachments/assets/a8901521-efc6-4f1f-a436-a2800e975c79)
 
